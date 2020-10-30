@@ -3,7 +3,7 @@ React color switcher app
 
 DEMO : https://master.dee6rijieynql.amplifyapp.com
 
-# Tech Stack: React | AWS Amplify
+**Tech Stack: React | AWS Amplify**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
