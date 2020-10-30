@@ -1,5 +1,7 @@
 # color-switcher
-React color switcher app : https://master.dee6rijieynql.amplifyapp.com
+React color switcher app 
+
+DEMO : https://master.dee6rijieynql.amplifyapp.com
 
 # Tech Stack: React | AWS Amplify
 
